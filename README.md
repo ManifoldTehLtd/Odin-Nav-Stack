@@ -3,9 +3,16 @@
 </p>
 
 <div align="center">
-  <h3>
-    <a href="">Project Page</a>
-  </h3>
+  <a href="https://ManifoldTehLtd.github.io/Odin-Nav-Stack-Webpage">
+  <img src='https://img.shields.io/badge/Webpage-OdinNavStack-blue' alt='webpage'></a>  
+  <a href="https://www.apache.org/licenses/LICENSE-2.0">
+  <img src='https://img.shields.io/badge/License-Apache2.0-green' alt='Apache2.0'></a>  
+  <a href="https://www.youtube.com/watch?v=du038MPxc0s">
+  <img src='https://img.shields.io/badge/Video-YouTube-red' alt='youtube'></a>  
+  <a href="https://www.bilibili.com/video/BV1sFBXBmEum/">
+  <img src='https://img.shields.io/badge/Video-bilibili-pink' alt='bilibili'></a>  
+  <a href="https://wiki.ros.org/noetic">
+  <img src='https://img.shields.io/badge/ROS-Noetic-orange' alt='noetic'></a>
 </div>
 
 **Odin1** is a high-performance spatial sensing module that delivers **high-precision 3D mapping**, **robust relocalization**, and rich sensory streams including **RGB images**, **depth**, **IMU**, **odometry**, and **dense point clouds**. Built on this foundation, we have developed various robotic intelligence stacks for ground platforms like the **Unitree Go2**, enabling:
